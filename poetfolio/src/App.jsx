@@ -1122,7 +1122,7 @@ const Portfolio = () => {
           </div>
 
           <div className="flex justify-center">
-            <a href="/Lakshya_Jha.pdf" download="Lakshya_Jha_Resume.pdf">
+            <a href="/Lakshya_Jha.pdf" download="Lakshya_Jha_CV.pdf">
               <button className="px-6 sm:px-8 py-3 border border-gray-600 rounded-full font-semibold hover:bg-gray-800 transition-all flex items-center gap-2 transform hover:scale-105">
                 <Download size={20} />
                 <span className="hidden sm:inline">Download CV</span>
