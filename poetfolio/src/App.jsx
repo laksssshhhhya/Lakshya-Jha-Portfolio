@@ -1011,7 +1011,11 @@ const Portfolio = () => {
               >
                 View Full Collection
               </button>
-              <a href="/Wingword certificate.pdf" target="_blank" rel="noopener noreferrer">
+              <a
+                href="/Wingword certificate.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <button className="ml-4 p-1 border border-gray-600 rounded-full hover:bg-gray-800 transition-all mx-auto mb-4">
                   <Award className="text-blue-400 my-2 mx-2" size={24} />
                 </button>
@@ -1118,7 +1122,7 @@ const Portfolio = () => {
           </div>
 
           <div className="flex justify-center">
-            <a href="/Lakshya_Jha.pdf" download>
+            <a href="/Lakshya_Jha.pdf" download="Lakshya_Jha_Resume.pdf">
               <button className="px-6 sm:px-8 py-3 border border-gray-600 rounded-full font-semibold hover:bg-gray-800 transition-all flex items-center gap-2 transform hover:scale-105">
                 <Download size={20} />
                 <span className="hidden sm:inline">Download CV</span>
