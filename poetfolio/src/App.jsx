@@ -515,7 +515,7 @@ const Portfolio = () => {
         <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 to-purple-500/10"></div>
         <div className="text-center z-10 max-w-4xl mx-auto px-4">
           <div className="mb-8">
-            <div className="w-35.5 h-35.5 rounded-full bg-gradient-to-br from-black-400 to-blue-500 mx-auto mb-6 flex items-center justify-center">
+            <div className="w-35.5 h-35.5 rounded-full bg-gradient-to-br from-black-400 to-blue-500 mx-auto mt-20 mb-6 flex items-center justify-center">
               <img
                 src="/me-enhance.jpeg"
                 alt="Lakshya"
